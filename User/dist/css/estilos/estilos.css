@@ -1,0 +1,888 @@
+/* .layout-top-nav .wrapper .content-wrapper, .layout-top-nav .wrapper .main-footer, .layout-top-nav .wrapper .main-header 
+{
+    overflow: hidden;
+    margin-left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+} */
+
+.content-header{
+    padding: 13% 4.5rem;
+    background-image: url("../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header::after{
+    content: 'Galeria & Academia de Artes Guardo';
+    color: #f0f8ff;
+    font-size: 3.8rem;
+    font-family: "Abel", Sans-serif;
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+.espaciador{
+    padding: 1% 4.5rem;
+}
+
+.content-header1{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header1::after{
+    content: 'Copyright &copy; 2022  Galeria & Academia de Artes Guardo All rights reserved.';
+    color: #f0f8ff;
+    font-size: 1rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header1 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header1 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+
+
+/* content 2 */
+.content-header2{
+    padding: 13% 4.5rem;
+    background-image: url("../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header2::after{
+    content: '¿QUIÉNES SOMOS?';
+    color: #f0f8ff;
+    font-size: 3.8rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header2 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header2 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+.content-header3{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header3::after{
+    content: 'Copyright &copy; 2022  Galeria & Academia de Artes Guardo All rights reserved.';
+    color: #f0f8ff;
+    font-size: 1rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header3 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header3 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+
+
+
+/*  */
+.content-wrapper1{
+    min-height: auto;
+}
+.content-wrapper2{
+    min-height: auto;
+}
+
+.img img{
+    
+    padding: 1em;
+    display:block;
+    margin:auto;
+    
+}
+
+/* //////////////////plantilla pintura */
+.content-header3{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header3::after{
+    content: 'PINTURA';
+    color: #f0f8ff;
+    font-size: 3.8rem;
+    font-family: "Abel", Sans-serif;
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header3 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header3 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+.espaciador{
+    padding: 1% 4.5rem;
+}
+
+.content-header4{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header4::after{
+    content: 'Copyright &copy; 2022  Galeria & Academia de Artes Guardo All rights reserved.';
+    color: #f0f8ff;
+    font-size: 1rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header4 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header4 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+
+
+/* GRID */
+h1{
+    font-family: "Abel", Sans-serif;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 1em;
+}
+.grid .parrafo1{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+
+}
+.grid .parrafo2{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+
+}
+.grid .parrafo1.parrafo2:hover{
+    border: 1px solid #adabab;
+}
+
+/* grid cajas /////////*/
+.cajas{
+    display: grid;
+    grid-template-columns: 25% 25%;
+    grid-template-rows: minmax(204px, auto);
+    gap: 3em;
+    justify-content: center;
+    padding: 0px 0px 40px 0px;
+}
+.cajas .caja1{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #dddddd;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 9px 1px rgb(0 0 0 / 49%);}
+.cajas .caja2{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #dddddd;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 9px 1px rgb(0 0 0 / 49%);
+
+}
+.cajas .caja1:hover{
+    background: #81ff9c;
+}
+.cajas .caja2:hover{
+    background: #e564ff;
+}
+
+/* cajas 2 */
+.cajas1{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    grid-template-rows: minmax(204px, auto);
+    gap: 3em;
+    justify-content: center;
+    padding: 0px 0px 40px 0px;
+}
+.cajas1 .caja3{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #dddddd;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 9px 1px rgb(0 0 0 / 49%);
+
+
+    
+}
+.cajas1 .caja4{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #dddddd;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 9px 1px rgb(0 0 0 / 49%);
+
+}
+.cajas1 .caja5{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #dddddd;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 9px 1px rgb(0 0 0 / 49%);
+}
+
+.cajas1 .caja3:hover{
+    background: #ff7d7d;
+}
+.cajas1 .caja4:hover{
+    background: #69ffb9;
+}
+.cajas1 .caja5:hover{
+    background: #937aff;
+}
+
+/* iconos///////// */
+
+.icono {
+    /* text-align: justify; */
+    
+    position: relative;
+    margin: 45px;
+    background-position: center center;
+
+}
+.iconos{
+    font-size: 20px;
+    font-family: "Abel", Sans-serif;
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+
+
+    /*  parrafos con imagen ////////*/
+.parrafos{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 1em;
+}
+
+.parrafos .parrafo3{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #81ff9c00;
+
+}
+.parrafos .parrafo4{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #81ff9c00;
+
+}
+.pintura img{
+    width: 100%;
+    /* height: 25%; */
+}
+.textos{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+    background: #81ff9c00;
+}
+
+
+/* ACORDEON////// */
+/* *{
+    box-sizing: border-box;
+} */
+.acordeon input{
+    display: none;
+}
+.acordeon__titulo{
+    display: block;
+    padding: 30px;
+    background: rgba(220, 20, 60, 0);
+    color: #070707;
+    font-size: 20px;
+    cursor: pointer;
+    border:1px #000 solid;
+    /* border-bottom: 1px 1px 1px 1px solid  #111111; */
+    border-radius: 5px;
+}
+.acordeon__titulo:hover {
+    background: rgb(250, 0, 54);
+
+}
+.acordeon__contenido{
+ height: 0;
+ overflow: hidden;
+ margin: 0;
+ transition: all 0.5s;
+}
+.acordeon input:checked ~ .acordeon__contenido{
+    height: auto;
+    margin: 15px 0;
+
+}
+
+/* acordeon grid */
+.acordeon_grid{
+    display: grid;
+    grid-template-columns: 70%;
+    gap: 1em;
+    justify-content: center;
+}
+
+
+.acordeon_grid .acordeon_1{
+    text-align: justify;
+    font-family: "Abel", Sans-serif;
+    font-size: 20px;
+    text-transform: none;
+    padding: 1em;
+
+}
+/* pintura fin  */
+
+
+
+/* PLANTILLA DE DIBUJO */
+
+
+
+.content-header5{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header5::after{
+    content: 'DIBUJO';
+    color: #f0f8ff;
+    font-size: 3.8rem;
+    font-family: "Abel", Sans-serif;
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header5 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header5 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+.espaciador{
+    padding: 1% 4.5rem;
+}
+
+.content-header6{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header6::after{
+    content: 'Copyright &copy; 2022  Galeria & Academia de Artes Guardo All rights reserved.';
+    color: #f0f8ff;
+    font-size: 1rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header6 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header6 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+
+
+/* PLANTILLA DE ESCULTURA */
+
+
+
+.content-header7{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header7::after{
+    content: 'ESCULTURA';
+    color: #f0f8ff;
+    font-size: 3.8rem;
+    font-family: "Abel", Sans-serif;
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header7 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header7 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+.espaciador{
+    padding: 1% 4.5rem;
+}
+
+.content-header8{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header8::after{
+    content: 'Copyright &copy; 2022  Galeria & Academia de Artes Guardo All rights reserved.';
+    color: #f0f8ff;
+    font-size: 1rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header8 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header8 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+
+
+/* plantulla portafolio */
+.card-header{
+    background: crimson;
+}
+
+.grid_portafolio{
+    display: grid;
+    width: 100%;
+    gap: 1em;
+    grid-template-columns: repeat(4, 25%);
+}
+
+
+/* plantulla contactanos */
+
+
+
+
+
+.content-header9{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/colorful-pencils-submerged-2137080.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header9::after{
+    content: '¡CONTACTANOS!';
+    color: #f0f8ff;
+    font-size: 3.8rem;
+    font-family: "Abel", Sans-serif;
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header9 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header9 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+.espaciador{
+    padding: 1% 4.5rem;
+}
+
+.content-header10{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header10::after{
+    content: 'Copyright &copy; 2022  Galeria & Academia de Artes Guardo All rights reserved.';
+    color: #f0f8ff;
+    font-size: 1rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header10 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header10 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+
+/* grid contacto */
+.grid-form{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 1em;
+}
+.grid-form .icono{
+    background: rgba(255, 0, 0, 0);
+    padding: 1em;
+}
+.grid-form .formulario{
+    background: rgba(53, 53, 60, 0);
+    padding: 1em;
+}
+
+/* iconos */
+
+.acordeon1 input{
+    display: none;
+}
+.acordeon__titulo1{
+    display: block;
+    padding: 30px;
+    background: rgba(220, 20, 60, 0);
+    color: #070707;
+    font-size: 20px;
+    /* cursor: pointer; */
+    /* border:1px #000 solid; */
+    /* border-bottom: 1px 1px 1px 1px solid  #111111; */
+    /* border-radius: 5px; */
+}
+/* .acordeon__titulo1:hover {
+    background: rgb(250, 0, 54);
+
+} */
+.acordeon__contenido1{
+ height: 0;
+ overflow: hidden;
+ margin: 0;
+ transition: all 0.5s;
+}
+.acordeon1 input:checked ~ .acordeon__contenido1{
+    height: auto;
+    margin: 15px 0;
+
+}
+
+/* plantilla portafolio */
+
+
+   
+
+
+.content-header11{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/portafolio.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header11::after{
+    content: 'PORTAFOLIO';
+    color: #f0f8ff;
+    font-size: 3.8rem;
+    font-family: "Abel", Sans-serif;
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header11 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header11 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+.espaciador{
+    padding: 1% 4.5rem;
+}
+
+.content-header12{
+    padding: 13% 4.5rem;
+    background-image: url("../../../img/maiz.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    margin: 0;
+    
+}
+.content-header12::after{
+    content: 'Copyright &copy; 2022  Galeria & Academia de Artes Guardo All rights reserved.';
+    color: #f0f8ff;
+    font-size: 1rem;
+    font-family: "Abel", Sans-serif;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+
+.content-header12 h1{
+font-size: 4.8rem;
+color: #f0f8ff;
+
+}
+.content-header12 .breadcrumb{
+    background-color: transparent;
+    line-height: 8.8rem;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 2.0rem;
+}
+
+/* header fixes */
+
+ 
+
+
+
